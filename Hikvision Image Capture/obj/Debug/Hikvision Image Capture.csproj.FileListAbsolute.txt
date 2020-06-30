@@ -1,0 +1,10 @@
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Hikvision Image Capture.exe.config
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Hikvision Image Capture.exe
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Hikvision Image Capture.pdb
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Hikvision Image Capture.csprojAssemblyReference.cache
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\HikvisionImageCapture.Properties.Resources.resources
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Hikvision Image Capture.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Hikvision Image Capture.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Hikvision Image Capture.exe
+C:\Users\Leon\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Hikvision Image Capture.pdb
